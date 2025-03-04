@@ -1,0 +1,22 @@
+{
+  "name": "dark-stack-overflow",
+  "publisher": "EduardoPraxedesDias",
+  "displayName": "dark-stack-overflow",
+  "description": "This theme was developed inspired on StackOverflow Dark Mode.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark StackOverflow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark StackOverflow-color-theme.json"
+      }
+    ]
+  }
+}
