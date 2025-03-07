@@ -847,8 +847,8 @@
       }
     },
     {
-      "name": "markup Italic",
-      "scope": "markup.italic, punctuation.definition.italic,todo.emphasis",
+      "name": "markup",
+      "scope": "markup,todo.emphasis",
       "settings": {
         "foreground": "#90c4f9"
       }
@@ -1816,10 +1816,10 @@
       }
     },
     {
-      "name": "js/ts italic",
+      "name": "js/ts",
       "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -1833,14 +1833,14 @@
       "name": "Python Keyword Control",
       "scope": "keyword.control.import.python,keyword.control.flow.python",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
       "name": "markup.italic.markdown",
       "scope": "markup.italic.markdown",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     }
   ],
