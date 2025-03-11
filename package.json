@@ -3,7 +3,7 @@
   "publisher": "EduardoPraxedesDias",
   "displayName": "dark-stack-overflow",
   "description": "This theme was developed inspired on StackOverflow Dark Mode.",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "engines": {
     "vscode": "^1.97.0"
   },

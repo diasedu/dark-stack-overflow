@@ -4,7 +4,7 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
-      "foreground": "#56595e"
+      "foreground": "#90c4f9"
     },
     "variable.constant": {
       "foreground": "#90c4f9"
@@ -259,21 +259,21 @@
       "name": "operator logical",
       "scope": "keyword.operator.logical",
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
       "name": "operator bitwise",
       "scope": "keyword.operator.bitwise",
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
       "name": "operator channel",
       "scope": "keyword.operator.channel",
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
@@ -287,7 +287,7 @@
       "name": "CSS/SCSS/LESS Operators",
       "scope": "keyword.operator.css,keyword.operator.scss,keyword.operator.less",
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
@@ -315,7 +315,7 @@
       "name": "css property-name",
       "scope": "support.type.vendored.property-name.css",
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
@@ -405,7 +405,7 @@
       "name": "js dom",
       "scope": "support.type.object.dom",
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
@@ -419,7 +419,7 @@
       "name": "keyword.operator",
       "scope": "keyword.operator.arithmetic,keyword.operator.comparison,keyword.operator.decrement,keyword.operator.increment,keyword.operator.relational",
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
@@ -447,7 +447,7 @@
       "name": "C type posix-reserved",
       "scope": "support.type.posix-reserved.c,support.type.posix-reserved.cpp",
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
@@ -468,7 +468,7 @@
       "name": "python type",
       "scope": "support.type.python",
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
@@ -524,7 +524,7 @@
       "name": "Compound Assignment Operators js/ts",
       "scope": "keyword.operator.assignment.compound.js,keyword.operator.assignment.compound.ts",
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
@@ -701,7 +701,7 @@
       "name": "Support",
       "scope": "support.function",
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
@@ -750,7 +750,7 @@
       "name": "Constant other symbol",
       "scope": "constant.other.symbol",
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
@@ -847,8 +847,8 @@
       }
     },
     {
-      "name": "markup",
-      "scope": "markup, punctuation.definition,todo.emphasis",
+      "name": "markup Italic",
+      "scope": "markup.italic, punctuation.definition.italic,todo.emphasis",
       "settings": {
         "foreground": "#90c4f9"
       }
@@ -961,14 +961,14 @@
       "name": "Regular Expressions",
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
       "name": "Escape Characters",
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
@@ -1045,7 +1045,7 @@
       "name": "Source Json Meta Structure Dictionary Json > Constant Language Json,source Json Meta Structure Array Json > Constant Language Json",
       "scope": "source.json meta.structure.dictionary.json > constant.language.json,source.json meta.structure.array.json > constant.language.json",
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
@@ -1164,7 +1164,7 @@
       "name": "php logical/bitwise operator",
       "scope": "keyword.operator.logical.php,keyword.operator.bitwise.php,keyword.operator.arithmetic.php",
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
@@ -1178,7 +1178,7 @@
       "name": "php comparison",
       "scope": "keyword.operator.comparison.php",
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
@@ -1199,7 +1199,7 @@
       "name": "python function support",
       "scope": "support.token.decorator.python,meta.function.decorator.identifier.python",
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
@@ -1227,14 +1227,14 @@
       "name": "constant.language.symbol.ruby",
       "scope": "constant.language.symbol.ruby",
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
       "name": "rgb-value",
       "scope": "rgb-value",
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
@@ -1417,7 +1417,7 @@
         "keyword.operator.assignment"
       ],
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
@@ -1454,7 +1454,7 @@
         "support.type.prelude.elm"
       ],
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
@@ -1491,7 +1491,7 @@
         "entity.other.attribute-name.pseudo-class"
       ],
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
@@ -1518,7 +1518,7 @@
         "constant.keyword.clojure"
       ],
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
@@ -1652,7 +1652,7 @@
         "entity.name.class.xi"
       ],
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
@@ -1679,7 +1679,7 @@
         "keyword.control.xi"
       ],
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
@@ -1789,7 +1789,7 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "fontStyle": "",
+        "fontStyle": "italic",
         "foreground": "#56595e"
       }
     },
@@ -1812,35 +1812,35 @@
         "constant.language.symbol.elixir"
       ],
       "settings": {
-        "foreground": "#56595e"
+        "foreground": "#90c4f9"
       }
     },
     {
       "name": "js/ts italic",
       "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
       "settings": {
-        "fontStyle": ""
+        "fontStyle": "italic"
       }
     },
     {
       "name": "comment",
       "scope": "comment.line.double-slash,comment.block.documentation",
       "settings": {
-        "fontStyle": ""
+        "fontStyle": "italic"
       }
     },
     {
       "name": "Python Keyword Control",
       "scope": "keyword.control.import.python,keyword.control.flow.python",
       "settings": {
-        "fontStyle": ""
+        "fontStyle": "italic"
       }
     },
     {
       "name": "markup.italic.markdown",
       "scope": "markup.italic.markdown",
       "settings": {
-        "fontStyle": ""
+        "fontStyle": "italic"
       }
     }
   ],
@@ -1984,13 +1984,13 @@
     "terminal.ansiBrightMagenta": "#d670d6",
     "terminal.ansiBrightRed": "#f14c4c",
     "terminal.ansiBrightWhite": "#e5e5e5",
-    "terminal.ansiBrightYellow": "#f5f543",
+    "terminal.ansiBrightYellow": "#90c4f9",
     "terminal.ansiCyan": "#a5ac60",
     "terminal.ansiGreen": "#0dbc79",
     "terminal.ansiMagenta": "#bc3fbc",
     "terminal.ansiRed": "#cd3131",
     "terminal.ansiWhite": "#e5e5e5",
-    "terminal.ansiYellow": "#e5e510",
+    "terminal.ansiYellow": "#90c4f9",
     "breadcrumb.background": "#1d1b1b",
     "breadcrumb.foreground": "#cccccccc",
     "breadcrumb.focusForeground": "#e0e0e0",
